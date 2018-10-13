@@ -1,0 +1,19 @@
+2018-10-12 22:02:42,526 - INFO - Directory Created
+2018-10-12 22:03:26,238 - INFO - Directory Created
+2018-10-12 22:03:26,238 - INFO - Directory Created
+2018-10-12 22:03:26,239 - INFO - URL for the 10-q file for CIK = 51143 and Accession_no = 000007 is created
+2018-10-12 22:03:26,239 - INFO - URL for the 10-q file for CIK = 51143 and Accession_no = 000007 is created
+2018-10-12 22:03:26,248 - DEBUG - Starting new HTTPS connection (1): www.sec.gov
+2018-10-12 22:03:26,248 - DEBUG - Starting new HTTPS connection (1): www.sec.gov
+2018-10-12 22:03:26,421 - DEBUG - https://www.sec.gov:443 "HEAD /Archives/edgar/data/51143/000005114313000007/0000051143-13-000007-index.htm HTTP/1.1" 200 0
+2018-10-12 22:03:26,421 - DEBUG - https://www.sec.gov:443 "HEAD /Archives/edgar/data/51143/000005114313000007/0000051143-13-000007-index.htm HTTP/1.1" 200 0
+2018-10-12 22:03:26,436 - INFO - Link is generated
+2018-10-12 22:03:26,436 - INFO - Link is generated
+2018-10-12 22:03:26,452 - DEBUG - Starting new HTTPS connection (1): www.sec.gov
+2018-10-12 22:03:26,452 - DEBUG - Starting new HTTPS connection (1): www.sec.gov
+2018-10-12 22:03:26,681 - DEBUG - https://www.sec.gov:443 "GET /Archives/edgar/data/51143/000005114313000007/0000051143-13-000007-index.htm HTTP/1.1" 200 2860
+2018-10-12 22:03:26,681 - DEBUG - https://www.sec.gov:443 "GET /Archives/edgar/data/51143/000005114313000007/0000051143-13-000007-index.htm HTTP/1.1" 200 2860
+2018-10-12 22:03:26,694 - INFO - 10 Link generated
+2018-10-12 22:03:26,694 - INFO - 10 Link generated
+2018-10-12 22:03:35,840 - INFO - CSV has been made and Zipped
+2018-10-12 22:03:35,840 - INFO - CSV has been made and Zipped
