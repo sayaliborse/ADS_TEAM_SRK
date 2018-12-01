@@ -10,7 +10,6 @@ import shutil
 import urllib
 import zipfile
 import logging 
-import tabulate
 import requests
 import webbrowser
 import pandas as pd
@@ -272,13 +271,8 @@ combinePerfFiles()
 def main():
     user_input = sys.argv[1:]
     print("----Process Started----")
-	 for ip in user_input:
-        if counter == 0:
-            username = str(ip)
-        else counter == 1:
-            password = str(ip)
-		counter = counter +1	
-    
+    username = sys.argv[1]   
+    password = sys.argv[2]   
     login(username,password)
     combineOrigFiles()
     combinePerfFiles()
